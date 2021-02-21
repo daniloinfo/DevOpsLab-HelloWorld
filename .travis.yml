@@ -1,7 +1,7 @@
 # Linguagem Utilizada para Desenvolver a Aplicação
 language: python
 
-# Versão que a aplicação suporta.
+# Versão que a aplicação suporta.novo
 python:
   - "3.6.3"
 
